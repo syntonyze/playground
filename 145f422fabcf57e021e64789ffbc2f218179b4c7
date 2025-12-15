@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4b87f015_4557b8ba",
+        "filename": "2381.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2025-12-15T13:58:05Z",
+      "side": 1,
+      "message": "Change this",
+      "range": {
+        "startLine": 1,
+        "startChar": 1,
+        "endLine": 1,
+        "endChar": 5
+      },
+      "revId": "145f422fabcf57e021e64789ffbc2f218179b4c7",
+      "serverId": "7588a27d-cfe0-4ac5-9b8f-b21761dfe186"
+    }
+  ]
+}
